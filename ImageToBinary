@@ -1,0 +1,330 @@
+
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://ogp.me/ns#">
+<head>
+<title>Image to Binary Converter - Online Picture to Array</title>
+
+<meta property="og:title" content="Image to Binary Converter - Online Picture to Array" />
+<meta property="og:description" content="Tool to convert an image into a binary of 0 and 1 (byte array format). A black and white picture/photo can be converted into 0 and 1 (0 for black and 1 for white)" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.dcode.fr/binary-image" />
+<meta property="og:image" content="https://www.dcode.fr/images/dcode.png" />
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="description" content="Tool to convert an image into a binary of 0 and 1 (byte array format). A black and white picture/photo can be converted into 0 and 1 (0 for black and 1 for white)" />
+<meta name="keywords" content="binary,image,picture,black,white,0,1,bmp,png,convert,pixel,array" />
+
+<link rel="canonical" href="https://www.dcode.fr/binary-image" />
+<link rel="alternate" href="https://www.dcode.fr/image-binaire" hreflang="fr" />
+
+<link href="https://www.dcode.fr/static/dcode3.81.css" rel="stylesheet" type="text/css" />
+
+<link rel="search" type="application/opensearchdescription+xml" title="dCode" href="opensearch.xml" />
+
+<link rel="icon" type="image/png" href="favicon.ico" />
+<link rel="apple-touch-icon-precomposed" href="favicon.ico" />
+<meta name="msapplication-TileColor" content="#f8efd3" />
+<meta name="msapplication-TileImage" content="favicon.ico" />
+<meta name="theme-color" content="#ECE2C3">
+
+
+
+</head>
+<body id="binary-image" lang="en" data-title="Image in Binary 0 1" data-url="https://www.dcode.fr/binary-image">
+
+<!--body -->
+<div id="body">
+
+<!-- top -->
+<div id="top">
+
+<!-- left -->
+<div id="left">
+
+<!-- logo -->
+<div id="logo">
+<a href="https://www.dcode.fr/en" title="dCode"><img src="https://www.dcode.fr/images/dcode.png" alt="dCode" /></a>
+</div>
+<!-- !logo -->
+
+<!-- search -->
+<div class="heading_bar">Search for a tool</div>
+<form id="search" action="#">
+<label for="search_input">Search a tool on dCode by keywords:</label><br />
+<input type="text" id="search_input" placeholder="e.g. type 'caesar'" value="" /> <button>⏎</button><br />
+<label>Browse the <a href='tools-list'>full dCode tools' list</a></label><br />
+</form>
+<div id="search_results"></div>
+<!-- !search -->
+
+<!-- overview -->
+<div class="heading_bar" id="title_left">Image in Binary 0 1</div>
+<p id="overview">Tool to convert an image into a binary of 0 and 1 (byte array format). A black and white picture/photo can be converted into 0 and 1 (0 for black and 1 for white)</p>
+
+<!-- results -->
+<div class="heading_bar"><span id="results_title">Results</span><span id="results_icons"></span></div> 
+<div id="results" translate="no" class="notranslate"></div>
+<!-- !results -->
+
+<!-- float_left -->
+<div id="float_left">
+<div><div id='div-gpt-ad-1407836210568-0'></div></div>
+
+<!-- webap -->
+<div id="webap" itemscope itemtype="http://schema.org/WebApplication">
+<meta itemprop="browserRequirements" content="HTML5, Javascript" />
+<meta itemprop="inLanguage" content="en" />
+<meta itemprop="url" content="https://www.dcode.fr/binary-image" />
+<meta itemprop="operatingSystem" content="all" />
+<p><span itemprop="name">Image in Binary 0 1</span> - <span itemprop="author" itemscope itemtype="http://schema.org/Organization"><a itemprop="url" href="https://www.dcode.fr/"><span itemprop="name">dCode</span></a></span></p>
+<p>Tag(s) : <span itemprop="applicationCategory">Image Processing</span></p>
+</div>
+<!-- !webap -->
+
+<!-- share -->
+<div class="heading_bar">Share</div>
+<div id="share">
+<img src="https://www.dcode.fr/images/share.png" alt="Share" />
+</div>
+<!-- !share -->
+
+<!-- contact -->
+<div class="heading_bar">dCode and more</div>
+<p class="contact">dCode is free and its tools are a valuable help in games, maths, geocaching, puzzles and problems to solve every day!<br/>A suggestion ? a feedback ? a bug ? an idea ? <em>Write to dCode</em>!</p>
+<div id="contact" title="dCode and more">
+<form id="contact_form" action="#">
+<label>Need Help ?</label><br/>
+<p>Please, check our <a href='https://discord.gg/bKdbZeP' target='_blank' rel='noopener'>dCode Discord</a> community for help requests!<br>NB: for encrypted messages, test our automatic <a href='/cipher-identifier'>cipher identifier</a>!<br/><br/></p>
+<label for="contact_message">Message for dCode's team:</label><br/>
+<textarea id="contact_message" placeholder="You have a question ? An opinion to share? A problem (Help requests are ignored)? A remark on this page of on dCode website?
+ NB : to get an answer write your email address - not published"></textarea>
+<p>Thanks to your feedback and relevant comments, dCode has developed the best 'Image in Binary 0 1' tool, so feel free to write! Thank you!</p>
+<button>Send this message</button>
+</form>
+</div>
+<!-- !contact -->
+
+</div>
+<!-- !float_left -->
+
+</div>
+<!-- !left -->
+
+</div>
+<!-- !top -->
+
+<!-- center -->
+<div id="center">
+
+<h1 id="title">Image in Binary 0 1</h1>
+<div id="breadcrumps"><ol itemscope itemtype="http://schema.org/BreadcrumbList"><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.dcode.fr/tools-list#data_processing"><span itemprop="name">Data Processing</span></a><meta itemprop="position" content="1" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.dcode.fr/tools-list#image_processing"><span itemprop="name">Image Processing</span></a><meta itemprop="position" content="2" /></li><li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a itemprop="item" href="https://www.dcode.fr/binary-image"><span itemprop="name">Image in Binary 0 1</span></a><meta itemprop="position" content="3" /></li></ol></div>
+<!-- advert -->
+<div id='div-gpt-ad-1407836020760-0'></div>
+<!-- !advert -->
+<div id="forms">
+<h2 class="h2_form" id="f">Image Binarizer/Converter</h2>
+<form id="image_binarizer" method="post">
+<label for="image_binarizer_image">Image to convert into 0 and 1</label>
+   <input type="file" id="image_binarizer_image" name="image" style="margin-left:1em;" />
+   <span id="image_binarizer_image_span"><span id="image_binarizer_image_text">&nbsp;</span> <a href="javascript:;" id="image_binarizer_image_remove">[X]</a></span>
+   <input type="hidden" id="image_binarizer_image_file" name="image_file" value="" autocomplete="off" /><br/>
+<h3>Width of the picture</h3>
+<label class="nostar" id="label_image_binarizer_width_reduced" for="image_binarizer_width_reduced"><input type="radio" id="image_binarizer_width_reduced" name="width" value="reduced" checked> Reduced size (recommended)</label><br/>
+<label class="nostar" id="label_image_binarizer_width_original" for="image_binarizer_width_original"><input type="radio" id="image_binarizer_width_original" name="width" value="original" > Original size (not recommended for large images)</label><br/>
+<label class="nostar" id="label_image_binarizer_width_custom" for="image_binarizer_width_custom"><input type="radio" id="image_binarizer_width_custom" name="width" value="custom" > Custom width (resolution)</label> <input type="text" class="" id="image_binarizer_custom_width" aria-labelledby="label_image_binarizer_width_custom" data-radio_id="image_binarizer_width_custom" name="custom_width" value="" size="5" /><br/>
+<h3>Threshold Black/White</h3>
+<label class="nostar" id="label_image_binarizer_threshold_50" for="image_binarizer_threshold_50"><input type="radio" id="image_binarizer_threshold_50" name="threshold" value="50" checked> 50% gray (recommended)</label><br/>
+<label class="nostar" id="label_image_binarizer_threshold_custom" for="image_binarizer_threshold_custom"><input type="radio" id="image_binarizer_threshold_custom" name="threshold" value="custom" > Custom Threshold from black to white (between 0 and 100)</label> <input type="text" class="" id="image_binarizer_custom_threshold" aria-labelledby="label_image_binarizer_threshold_custom" data-radio_id="image_binarizer_threshold_custom" name="custom_threshold" value="25" size="3" /><br/>
+<h3>Binary chars</h3>
+<label class="nostar" id="label_image_binarizer_output_chars_b0w1" for="image_binarizer_output_chars_b0w1"><input type="radio" id="image_binarizer_output_chars_b0w1" name="output_chars" value="b0w1" checked> Black = 0, White = 1</label><br/>
+<label class="nostar" id="label_image_binarizer_output_chars_w0b1" for="image_binarizer_output_chars_w0b1"><input type="radio" id="image_binarizer_output_chars_w0b1" name="output_chars" value="w0b1" > White = 0, Black = 1</label><br/>
+<label class="nostar" id="label_image_binarizer_output_chars_rectangles" for="image_binarizer_output_chars_rectangles"><input type="radio" id="image_binarizer_output_chars_rectangles" name="output_chars" value="rectangles" > symbols ■ and □</label><br/>
+<label class="nostar" id="label_image_binarizer_output_chars_custom" for="image_binarizer_output_chars_custom"><input type="radio" id="image_binarizer_output_chars_custom" name="output_chars" value="custom" > Custom characters (to replace 0 and 1)</label> <input type="text" class="" id="image_binarizer_custom_output_chars" aria-labelledby="label_image_binarizer_output_chars_custom" data-radio_id="image_binarizer_output_chars_custom" name="custom_output_chars" value="AB" size="3" /><br/>
+<button data-post="image,width,custom_width,threshold,custom_threshold,output_chars,custom_output_chars" post="image,width,custom_width,threshold,custom_threshold,output_chars,custom_output_chars">Convert</button>
+<div class="cf "><span>See also:</span> <a href="/binary-code">Binary Code</a> — <a href="/file-data">File Creation</a></div>
+</form>
+<h2 class="h2_form" id="f1">Image from Binary Generator</h2>
+<form id="binary_to_image" method="post">
+<label for="binary_to_image_binary">Binary List of Pixels (0 and 1)</label><br/><textarea name="binary" id="binary_to_image_binary" class=""></textarea><br/>
+<label for="binary_to_image_width">Width of the picture</label> <input type="text" id="binary_to_image_width" name="width" value="" size="5" class="option" /><br/>
+<label for="binary_to_image_invert">Invert (White = 0, Black = 1) <input type="checkbox" id="binary_to_image_invert" name="invert"  checked/></label><br/>
+<button data-post="binary,width,invert" post="binary,width,invert">Draw</button>
+<div class="cf "><span>See also:</span> <a href="/file-data">File Creation</a></div>
+</form>
+</div>
+<!-- advert -->
+<div id='div-gpt-ad-1407836075305-0'></div>
+<!-- !advert -->
+
+<!-- questions -->
+<h2>Answers to Questions (FAQ)</h2>
+<div id="questions">
+<div class="qa" data-edit="<a>You can edit this Q&A to review it and improve it</a>" itemscope itemtype="http://schema.org/Question"><h3 id="q1" itemprop="name">How to encode an image in binary?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"><div itemprop="text"><p class="def"></p> <p class="def">Read each pixel and if it is dark, convert it to <span class="cod">0</span>, and if it is clear, convert it to <span class="cod">1</span> (or invert <span class="cod">1</span> and <span class="cod">0</span>).
+</p> <p class="def">If the picture is not in black and white, it will be converted to <a href="https://www.dcode.fr/grayscale-image">grayscale</a> according to the Rec. 601 luma (formula $ Y = 0.2989 R + 0.5870 G + 0.1140 B $ ) then binarized according to the selected threshold (generally 0.5 = 50%)
+</p> <p class="def"></p> <p class="ex"><u>Example:</u> <code>Batman<br>11111111111111111111111111<br>11111100111111111100111111<br>11110001111100111110001111<br>11000001111000011110000011<br>10000000111000011100000001<br>10000000000000000000000001<br>00000000000000000000000000<br>00000000000000000000000000<br>10000000000000000000000001<br>10000110001000010001100001<br>11001111111100111111110011<br>11100111111100111111100111<br>11111111111111111111111111</code>
+</p> <p class="def">Some people see it as a form of binary art: the pixel art.
+</p></div></div></div>
+<div class="qa" data-edit="<a>You can edit this Q&A to review it and improve it</a>" itemscope itemtype="http://schema.org/Question"><h3 id="q2" itemprop="name">What are accepted image formats?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"><div itemprop="text"><p class="def"></p> <p class="def">All web image formats (JPG, PNG, GIF, etc.) are accepted, but it is preferable to use a format that uses lossless compression (PNG, BMP, etc.), because in these cases the data of each pixel color is not altered.
+</p> <p class="def">Many icons of 16x16, 32x32, 64x64 size make excellent formats.
+</p> <p class="def"></p></div></div></div>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-format="fluid" data-ad-layout="in-article" data-ad-client="ca-pub-2941823798983528" data-ad-slot="3211009949"></ins>
+<div class="qa" data-edit="<a>You can edit this Q&A to review it and improve it</a>" itemscope itemtype="http://schema.org/Question"><h3 id="q3" itemprop="name">What is image binarization? (Image 1-bit)</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"><div itemprop="text"><p class="def"></p> <p class="def">Binarization is the action of binarise (make binary with 2 elements) data.
+</p> <p class="def">From a practical point of view, an image with 2 colors (coded on 1 bit) is quick to store, each pixel is either 0 or 1.
+</p> <p class="def"></p></div></div></div>
+<div class="qa" data-edit="<a>You can edit this Q&A to review it and improve it</a>" itemscope itemtype="http://schema.org/Question"><h3 id="q4" itemprop="name">Does 0 codes for black of for white?</h3>
+<div itemprop="acceptedAnswer" itemscope itemtype="http://schema.org/Answer"><div itemprop="text"><p class="def"></p> <p class="def">There is no standard for 1-bit images, but generally <span class="cod">0</span> codes for black and <span class="cod">1</span> for white, but nothing prevents the use of <span class="cod">1</span> for black and <span class="cod">0</span> for white.
+</p> <p class="def">NB: An 8-bit image codes 0 for black and 255 for white.
+</p> <p class="def"></p></div></div></div>
+<button class="contact">Ask a new question</button>
+
+</div>
+<!-- !questions -->
+<!-- advert -->
+<ins class='adsbygoogle' style='display:block' data-ad-client='ca-pub-2941823798983528' data-ad-slot='9424003936' data-ad-format='rectangle'></ins>
+<!-- !advert -->
+<!-- source -->
+<h2>Source code</h2>
+<p class="info">dCode retains ownership of the online 'Image in Binary 0 1' tool source code. Except explicit open source licence (indicated CC / Creative Commons / free), any 'Image in Binary 0 1' algorithm, applet or snippet (converter, solver, encryption / decryption, encoding / decoding, ciphering / deciphering, translator), or any 'Image in Binary 0 1' function (calculate, convert, solve, decrypt / encrypt, decipher / cipher, decode / encode, translate) written in any informatic language (Python, Java, PHP, C#, Javascript, Matlab, etc.) and no data download, script, copy-paste, or API access for 'Image in Binary 0 1' will be for free, same for offline use on PC, tablet, iPhone or Android ! dCode is free and online.
+ </p>
+<!-- !source -->
+
+<!-- help -->
+<h2>Need Help ?</h2>
+<p class="info">Please, check our <a href='https://discord.gg/bKdbZeP' target='_blank' rel='noopener'>dCode Discord</a> community for help requests!<br>NB: for encrypted messages, test our automatic <a href='/cipher-identifier'>cipher identifier</a>!</p>
+<!-- !help -->
+
+<h2>Questions / Comments</h2>
+<div id="comments" class="contact">
+<button id="comments_button">Write a message</button>
+<p class="info">Thanks to your feedback and relevant comments, dCode has developed the best 'Image in Binary 0 1' tool, so feel free to write! Thank you!</p>
+</div>
+
+</div>
+<!-- !center -->
+<!-- right -->
+<div id="right">
+<!-- summary -->
+<div id="lang_select"><a href="https://www.dcode.fr/image-binaire" hreflang="fr"><img src="https://www.dcode.fr/images/flag-fr.png" alt="French (Français)" title="French (Français)" valign="middle"></a> </div>
+<div class="heading_bar">Summary</div>
+<div id="right_part_to_hide">
+<div id="summary"><ul><li><a href="#f0" class="form">Image Binarizer/Converter</a></li><li><a href="#f1" class="form">Image from Binary Generator</a></li><li><a href="#q1">How to encode an image in binary?</a></li><li><a href="#q2">What are accepted image formats?</a></li><li><a href="#q3">What is image binarization? (Image 1-bit)</a></li><li><a href="#q4">Does 0 codes for black of for white?</a></li></ul></div>
+<!-- !summary -->
+<!-- similar tools -->
+<div class="heading_bar">Similar pages</div>
+<div id="similar_tools"><ul><li><a href="file-data">File Creation</a></li><li><a href="binary-code">Binary Code</a></li><li><a href="barcodes">Barcode Generator</a></li><li><a href="grayscale-image">Grayscale Image</a></li><li><a href="png-chunks">PNG Chunks</a></li><li><a href="barcode-128">Barcode 128</a></li><li><a href="barcode-39">Barcode 39</a></li><li><a href="rgb-channels">RGB Channels</a></li><li><a href="image-histogram">Image Histogram</a></li><li><a href="image-channels">Image Channels</a></li><li><a href="tools-list">★ All Tools ★</a></li></ul></div>
+<!-- !similar tools -->
+
+
+<!-- support -->
+<div class="heading_bar">Support</div>
+<div id="support"><ul><li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=S53H3S52HJH6N&source=url" rel="noopener" target="_blank">Paypal</a></li><li><a href="https://www.patreon.com/dcode_fr" rel="noopener" target="_blank">Patreon</a></li><li><a href="javascript:;" rel="noopener" target="_blank">More</a></li></ul><span id="support_dialog">&nbsp;</span></div>
+<!-- !support -->
+<!-- livechat -->
+<div class="heading_bar">Forum/Help</div>
+<div id="livechat"><a href="https://discord.gg/bKdbZeP" target="_blank" rel="noopener"><img src="https://www.dcode.fr/images/discord-logo.png" alt="Discuss" /></a></div>
+<!-- !livechat -->
+<!-- keywords -->
+<div class="heading_bar">Keywords</div>
+<div id="keywords">binary,image,picture,black,white,0,1,bmp,png,convert,pixel,array</div>
+<!-- !keywords -->
+<!-- links -->
+<div class="heading_bar">Links</div>
+<div id="links"><ul><li><a href="about">Contact</a></li><li><a href="about">About dCode</a></li><li><a href="mobile-app">dCode App</a></li><li><a href="https://en.wikipedia.org/" rel="noopener" target="_blank">Wikipedia</a></li></ul></div>
+<!-- !links -->
+</div>
+<!-- !right_menu_to_hide -->
+</div>
+<!-- fin droit -->
+<!-- bottom -->
+<br class="spacer" />
+<div id="bottom">
+<div id="source">Source : https://www.dcode.fr/binary-image</div>
+<div>&copy; 2021 <abbr title='DeCODE'>dCode</abbr> &mdash; The ultimate 'toolkit' to solve every games / riddles / geocaching / CTF.</div>
+</div>
+<!-- !bottom -->
+</div>
+
+<div id="slideout" class="contact">Feedback</div>
+
+<a id="up-button">▲</a>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/jquery.qtip.min.css">
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+
+<script>window.dCode={'tool':{'address':"binary-image",'title':"Image in Binary 0 1",'url':"https://www.dcode.fr/binary-image"},'lang':"en",'url':"https://www.dcode.fr"};</script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="https://www.dcode.fr/static/jquery/jquery-2.2.4.min.js"><\/script>')</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qtip2/3.0.3/jquery.qtip.min.js"></script>
+<script>window.jQuery.qtip || document.write('<script src="https://www.dcode.fr/static/jquery/qtip/jquery.qtip-3.0.3.min.js"><\/script>')</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script>window.jQuery.ui || document.write('<script src="https://www.dcode.fr/static/jquery/ui/jquery-ui-1.12.1.min.js"><\/script>')</script>
+<script src="https://www.dcode.fr/static/dcode3.81.js"></script>
+
+<script src="https://www.dcode.fr/static/jquery/fileupload/vendor/jquery.ui.widget.js"></script>
+        <script src="https://www.dcode.fr/static/jquery/fileupload/jquery.fileupload.js"></script>
+<script>
+   $('#image_binarizer_image_span').hide();
+   $('#image_binarizer_image_remove').click(function () { $('#image_binarizer_image_file').val( "" ); $('#image_binarizer_image_span').hide(); $('#image_binarizer_image').show(); });
+   $('#image_binarizer_image').fileupload({
+    dataType: 'json',
+    url:'https://www.dcode.fr/upload.php',
+    add: function (e, data) { var size = data.originalFiles[0]["size"]; var max = 10485760; if (size > max) alert(data.originalFiles[0]["name"]+" = "+Math.ceil(size/1048576,1)+" Mb... (Maximum "+Math.round(max/1048576)+" Mb)"); else data.submit(); },
+    fail: function (e, data) { alert(data.jqXHR.responseText); $('#image_binarizer_image_remove').click(); $('#image_binarizer button').prop('disabled', false); },
+    done: function (e, data) { $('#image_binarizer_image_file').val( data.result.value ); $('#image_binarizer_image_text').html( data.result.name ); $('#image_binarizer_image_span').show(); $(this).hide();  $('#image_binarizer button').prop('disabled', false); },
+    progressall: function (e, data) { var progress = parseInt(data.loaded / data.total * 100, 10); $(this).hide(); $('#image_binarizer_image_text').html( progress + '%' ); $('#image_binarizer_image_span').show(); $('#image_binarizer button').prop('disabled', true); }
+    });</script>
+
+<script type='text/javascript' async src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML&locale=en'></script>
+<script>if (!window.MathJax) { var script = document.createElement('script'); script.async = true; script.src = 'https://cdn.jsdelivr.net/npm/mathjax@2.7.7?config=TeX-MML-AM_CHTML&locale=en'; document.head.appendChild(script); }</script>
+<script>if (!window.MathJax) { var script = document.createElement('script'); script.async = true; script.src = 'https://polyfill.io/v3/polyfill.min.js'; document.head.appendChild(script); script = document.createElement('script'); script.async = true; script.src = 'https://www.dcode.fr/static/mathjax/MathJax-2.7.7/unpacked/MathJax.js?config=TeX-MML-AM_CHTML&locale=en'; document.head.appendChild(script); }</script>
+<script type='text/x-mathjax-config'>MathJax.Hub.Config({ 'HTML-CSS': { linebreaks: { automatic: true, width: 'container' } }, 'CommonHTML': { linebreaks: { automatic: true, width: 'container' } }, 'PreviewHTML': { linebreaks: { automatic: true, width: 'container' } }, 'SVG': { linebreaks: { automatic: true, width: 'container' } }, 'TeX': {maxBuffer: 10485760}, 'tex2jax': { inlineMath: [ ['$ ',' $'] ], displayMath: [ ['$$','$$'] ] }, menuSettings: { zoom: 'Click' } });
+MathJax.Hub.Register.MessageHook('Math Processing Error',function (message) { $('#'+message[1].MathJax.error.inputID+'-Frame').html(message[1].MathJax.error.originalText); });
+</script>
+
+<script async=true>!function(){var e=window.location.hostname,t=document.createElement('script'),a=document.getElementsByTagName('script')[0],n='https://quantcast.mgr.consensu.org'.concat('/choice/','ck5VYdjERExyk','/',e,'/choice.js'),i=0;t.async=!0,t.type='text/javascript',t.src=n,a.parentNode.insertBefore(t,a),function(){for(var e,t='__tcfapiLocator',a=[],n=window;n;){try{if(n.frames[t]){e=n;break}}catch(e){}if(n===window.top)break;n=n.parent}e||(function e(){var a=n.document,i=!!n.frames[t];if(!i)if(a.body){var o=a.createElement('iframe');o.style.cssText='display:none',o.name=t,a.body.appendChild(o)}else setTimeout(e,5);return!i}(),n.__tcfapi=function(){var e,t=arguments;if(!t.length)return a;if('setGdprApplies'===t[0])t.length>3&&2===t[2]&&'boolean'==typeof t[3]&&(e=t[3],'function'==typeof t[2]&&t[2]('set',!0));else if('ping'===t[0]){var n={gdprApplies:e,cmpLoaded:!1,cmpStatus:'stub'};'function'==typeof t[2]&&t[2](n)}else a.push(t)},n.addEventListener('message',function(e){var t='string'==typeof e.data,a={};try{a=t?JSON.parse(e.data):e.data}catch(e){}var n=a.__tcfapiCall;n&&window.__tcfapi(n.command,n.version,function(a,i){var o={__tcfapiReturn:{returnValue:a,success:i,callId:n.callId}};t&&(o=JSON.stringify(o)),e.source.postMessage(o,'*')},n.parameter)},!1))}();var o=function(){var e=arguments;typeof window.__uspapi!==o&&setTimeout(function(){void 0!==window.__uspapi&&window.__uspapi.apply(window.__uspapi,e)},500)};if(void 0===window.__uspapi){window.__uspapi=o;var s=setInterval(function(){i++,window.__uspapi===o&&i<3?console.warn('USP is not accessible'):clearInterval(s)},6e3)}}();</script><script>
+( function() {
+ var tick = 0;
+ var consentSetInterval = setInterval(function(){
+  if (++tick >= 200) { insertAds(); return; }
+  if (typeof window.__tcfapi === 'undefined') return;
+  window.__tcfapi('addEventListener', 2, function(tcData, listenerSuccess) {
+   if (!listenerSuccess) return;
+   if (tcData.eventStatus !== 'tcloaded' && tcData.eventStatus !== 'useractioncomplete') return;
+   if (!tcData.gdprApplies) insertAds();
+   else if ( (tcData.purpose.consents[1] || false) ) insertAds();
+  });
+ }, 100);
+ var insertAds = function() {
+  var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'; script.onerror=function(){window.dCode.adBlock=true;}; document.getElementsByTagName('head')[0].appendChild(script);
+  var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://securepubads.g.doubleclick.net/tag/js/gpt.js'; script.onerror=function(){window.dCode.adBlock=true;}; document.getElementsByTagName('head')[0].appendChild(script);
+  clearInterval(consentSetInterval);
+ };
+})();
+</script>
+<script>$(function(){ $('.adsbygoogle').each(function () { (adsbygoogle = window.adsbygoogle || []).push({}); }); });</script><script async src='https://www.googletagmanager.com/gtag/js?id=UA-647045-2'></script>
+<script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-647045-2');</script>
+<script src='//cdn-a.yieldlove.com/yieldlove-bidder.js?dcode.fr'></script>
+ <script>var googletag = googletag || {}; googletag.cmd = googletag.cmd || []; googletag.cmd.push(function() { googletag.pubads().disableInitialLoad(); googletag.enableServices(); });</script>
+ <script type='text/javascript'>
+  googletag.cmd.push(function() {
+   googletag.defineSlot('/53015287/dcode.fr_d_336x280_1', [[336, 280], [300, 250]], 'div-gpt-ad-1407836075305-0').addService(googletag.pubads());
+   googletag.display('div-gpt-ad-1407836075305-0');
+  });
+  googletag.cmd.push(function() {
+   googletag.defineSlot('/53015287/dcode.fr_d_320x100_1', [320, 100], 'div-gpt-ad-1407836020760-0').addService(googletag.pubads());
+   googletag.display('div-gpt-ad-1407836020760-0');
+  });
+  googletag.cmd.push(function() {
+   googletag.defineSlot('/53015287/dcode.fr_d_336x280_2', [[336, 280], [300, 250]], 'div-gpt-ad-1407836210568-0').addService(googletag.pubads());
+   googletag.display('div-gpt-ad-1407836210568-0');
+  });
+  </script>
+
+<!-- !content -->
+</body>
+</html>
