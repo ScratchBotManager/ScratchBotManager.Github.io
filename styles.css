@@ -1,0 +1,16 @@
+        img {  display: block;
+            transform: scale(1, 1);
+    border-radius: 20px;
+    border: 6px solid black;
+    transition: transform 0.4s;
+    outline: none;
+    background-color: transparent;
+      
+      margin-left: auto;
+      margin-right: auto;
+            vertical-align: middle;
+             }
+      
+      h1 {text-align: center;}
+    button {
+        border-radius: 12px;
